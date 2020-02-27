@@ -8,28 +8,48 @@ body {
     background-color: rgb(173, 240, 170);
 }
 .parceiros {
-    background-color: rgb(231, 140, 124);
+    background-color: rgb(208, 224, 137);
 }
 .fexamentos {
-    background-color: red
+    background-color: rgb(226, 171, 112)
 }
 .margin {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    margin-tex
+    padding-bottom: 3px;
 }
-
-.bg-footer {
-    background-color: black;
-    color: chocolate;
+h3 {
+    padding-top: 3px;
 }
-
 .parceiros-txt {
+    padding-top: 3px;
     font-style: oblique;
     font-family: fantasy;
     color: rgb(51, 178, 32)
 }
 .quem-somos-txt {
     font-family: monospace;
-    color: magenta;
+    color: rgb(5, 22, 5);
+}
+
+.title-quemsomos {
+    background-color: black;
+    color: whitesmoke;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.title-fexamentos {
+    background-color: black;
+    color: whitesmoke;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.title-parceiros {
+    background-color: black;
+    color: whitesmoke;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.bg-footer {
+    padding-top: 3px;
+    background-color: black;
+    color: chocolate;
 }
