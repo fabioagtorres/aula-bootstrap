@@ -1,0 +1,35 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: rgb(123, 210, 220);
+}
+.quem-somos {
+    background-color: rgb(240, 240, 163);
+}
+.parceiros {
+    background-color: rgb(231, 140, 124);
+}
+.fexamentos {
+    background-color: red
+}
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-tex
+}
+
+.bg-footer {
+    background-color: black;
+    color: chocolate;
+}
+
+.parceiros-txt {
+    font-style: oblique;
+    font-family: fantasy;
+    color: rgb(51, 178, 32)
+}
+.quem-somos-txt {
+    font-family: monospace;
+    color: magenta;
+}
